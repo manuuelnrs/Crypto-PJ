@@ -7,4 +7,6 @@
 * Lengaje de programación: Java ☕
 
 ## Autores ✒️
-* **Manuel Nava** 💻 - [manuuelnrs@GitHub](https://github.com/manuuelnrs) - [manuuelnrs@GitLab](https://gitlab.com/manuuelnrs)
+* **Durán González Lizeth** 💻 - 
+* **López Sosa Nelly Paola** 💻 - 
+* **Nava Rosales Juan Manuel** 💻  - [manuuelnrs@GitHub](https://github.com/manuuelnrs) - [manuuelnrs@GitLab](https://gitlab.com/manuuelnrs)
